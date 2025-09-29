@@ -30,7 +30,7 @@ Here’s a preview of the application’s main menu:
 ## 📂 Project Structure
 
 ```bash
-mini-store-arrays/
+mini-store-joptionpane/
 ├── src/
 │   ├── main/
 │   │   ├── java/
